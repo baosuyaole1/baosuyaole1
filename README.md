@@ -1,12 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baosuyaole1&theme=radical)](https://github.com/baosuyaole1)
 ![trophy](https://github-profile-trophy.vercel.app/?username=baosuyaole1)
-
-
-作者: holic-x
-链接: https://blog.holic-x.com/wv-blog/post/7ad96a5d.html#GitHub-Readme-Activity-Graph
-来源: 一人の境
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 <!--
 **baosuyaole1/baosuyaole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
